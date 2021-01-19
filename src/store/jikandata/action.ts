@@ -1,0 +1,9 @@
+const JIKAN_DATA_ACTION = {
+  type: 'UPDATE_DATA_STATE',
+  action: {
+    ADD_JIKAN_DATA: 'ADD_JIKAN_DATA',
+    UPDATE_JIKAN_DATA: 'UPDATE_JIKAN_DATA'
+  }
+};
+
+export default JIKAN_DATA_ACTION;
